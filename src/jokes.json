@@ -751,7 +751,7 @@
 	},
 	"179": {
 		"q": "Don't add a programming language to your skills list after watching a 15-minute video on it.",
-		"a": "Yes wait until you've written hello world",
+		"a": "Yes, wait until you've written hello world",
 		"form": "qa"
 	},
 
@@ -764,7 +764,7 @@
 	},
 	"182": {
 		"q": "Why does the Docker container fail?",
-		"a": "So that, Kubernetes can start it again",
+		"a": "So that Kubernetes can start it again",
 		"form": "qa"
 	},
 	"183": {
@@ -799,8 +799,6 @@
 	},
 
 	"190": "If it weren't for C, we'd all be programming in BASI and OBOL",
-
-	"191": "Programming is like sex: One mistake and you have to support it for the rest of your life.",
 	
-	"192": "Chuck Norris writes code, that optimizes itself."
+	"191": "Chuck Norris writes code, that optimizes itself."
 }
